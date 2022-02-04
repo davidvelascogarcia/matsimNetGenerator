@@ -1,0 +1,7 @@
+matsimNetGenerator module
+=========================
+
+.. automodule:: matsimNetGenerator
+   :members:
+   :undoc-members:
+   :show-inheritance:
